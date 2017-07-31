@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About Zipsa Immunology
+title: About Zipsa
 ---
+
 
 ## What's this about?
 
@@ -10,4 +11,4 @@ title: About Zipsa Immunology
 
 ## Facebook 본부
 
-See the [집사의 면역학 페이스북 페이지](https://www.facebook.com/immunology001/)
+Please visit the [집사의 면역학 페이스북 페이지](https://www.facebook.com/immunology001/)
