@@ -13,12 +13,46 @@ Review date: July 21th, 2017
 Pfirschke et al., Immunity 2016, "Immunogenic Chemotherapy Sensitizes Tumors to Checkpoint Blockade Therapy"
 
 
-## [면역세포의 카톡, 키모카인 (Chemokine)](https://www.facebook.com/immunology001/posts/528390170826246
+## [면역세포의 카톡, 키모카인 (Chemokine)](https://www.facebook.com/immunology001/posts/528390170826246)
 
 Review date: July 16th, 2017
 
 Plitas et al., Immunity 2016, "Regulatory T Cells Exhibit Distinct Features in Human Breast Cancer"
 
+
+## [9급 공무원 T양, HIV에 감염되다](https://www.facebook.com/immunology001/posts/526420834356513)
+
+Review date: July 13th, 2017
+
+Descours et al., Nature 2017, "CD32a is a marker of a CD4 T-cell HIV reservoir harbouring replication-competent proviruses"
+
+
+## [뒤끝 쩌는 남자: M군](https://www.facebook.com/immunology001/posts/525278254470771)
+
+Review date: July 11th, 2017
+
+Wang et al., Nature Immunology 2017, "Germinal-center development of memory B cells driven by IL-9 from follicular helper T cells"
+
+
+## [P군의 장거리 미사일 시스템: Immunoglobulin (Ig)](https://www.facebook.com/immunology001/posts/523444781320785)
+
+Review date: July 7th, 2017
+
+Reboldi et al., Science 2016, "IgA production requires B cell interaction with subepithelial dendritic cells in Peyer’s patches"
+
+
+## [경찰관 설득하기: PD-1](https://www.facebook.com/immunology001/posts/521486128183317)
+
+Review date: July 4th, 2017
+
+Kamphorst et al., Science 2017, "Rescue of exhausted CD8 T cells by PD-1–targeted therapies is CD28-dependent"
+
+
+## [면역나라의 인구센서스: CyTOF](https://www.facebook.com/immunology001/posts/519898581675405)
+
+Review dateL July 1st, 2017
+
+Lavin et al., Cell 2017, "Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses"
 
 
 
