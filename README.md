@@ -25,7 +25,7 @@ Plitas et al., Immunity 2016, "Regulatory T Cells Exhibit Distinct Features in H
 
 
 
-### [Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
+#### [Artwork: Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
 Claire Kim x JJDDYY (2017)
 
 
