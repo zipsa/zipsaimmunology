@@ -10,4 +10,4 @@ title: About
 
 ## Facebook 본부
 
-See the [집사의 면역학 페이지](https://www.facebook.com/immunology001/)
+See the [집사의 면역학 페이스북 페이지](https://www.facebook.com/immunology001/)
