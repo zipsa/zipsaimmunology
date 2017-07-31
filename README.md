@@ -13,8 +13,20 @@ Review date: July 21th, 2017
 Pfirschke et al., Immunity 2016, "Immunogenic Chemotherapy Sensitizes Tumors to Checkpoint Blockade Therapy"
 
 
+## [면역세포의 카톡, 키모카인 (Chemokine)](https://www.facebook.com/immunology001/posts/528390170826246
+
+Review date: July 16th, 2017
+
+Plitas et al., Immunity 2016, "Regulatory T Cells Exhibit Distinct Features in Human Breast Cancer"
 
 
+
+
+
+
+
+### [Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
+Claire Kim x JJDDYY (2017)
 
 
 ## [B세포의 논산훈련소: Germinal Center](https://www.facebook.com/immunology001/posts/514604858871444)
