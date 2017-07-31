@@ -8,6 +8,6 @@ title: About
 집사의 면역학 글을 아카이브 합니다. 
 
 
-## Suggestions?
+## Facebook 본부
 
-Contact Zipsa at zipsaimmunology@gmail.com
+https://www.facebook.com/immunology001/
