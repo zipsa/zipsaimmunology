@@ -10,4 +10,4 @@ title: About
 
 ## Facebook 본부
 
-https://www.facebook.com/immunology001/
+[https://www.facebook.com/immunology001/]
