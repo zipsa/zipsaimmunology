@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Zipsa Immunology
 ---
 
 ## What's this about?
