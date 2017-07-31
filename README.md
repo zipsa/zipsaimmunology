@@ -54,12 +54,7 @@ Review dateL July 1st, 2017
 
 Lavin et al., Cell 2017, "Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses"
 
-
-
-
-
-
-#### [Artwork: Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
+#### - [Artwork: Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
 Claire Kim x JJDDYY (2017)
 
 
