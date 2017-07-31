@@ -3,10 +3,11 @@ layout: page
 title: About
 ---
 
-Zipsa Immunology Archives.
-Hope you enjoy it!
+## What's this about?
+
+집사의 면역학 글을 아카이브 합니다. 
 
 
-# Suggestions?
+## Suggestions?
 
 Contact Zipsa at zipsaimmunology@gmail.com
