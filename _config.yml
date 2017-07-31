@@ -1,0 +1,11 @@
+# basic options I can say whatever I want following hashtag in Yaml
+title: Zipsa Immunology
+author: Zipsa
+email: zipsaimmunology@gmail.com
+description: 집사의 면역학 글을 아카이브합니다 
+twitter_username: null
+github_username: zipsa
+
+# Build settings
+markdown: kramdown
+theme: minima
