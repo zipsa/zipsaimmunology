@@ -19,6 +19,9 @@ Review date: **July 27th, 2017**
 Hosios et al., Developmental Cell 2016, "Amino Acids Rather than Glucose Account for the Majority of Cell Mass in Proliferating Mammalian Cells"
 
 
+#### [Artwork: “암세포가 될테야! (B-Kun wants to be a lymphoma!)”](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/538117716520158/?type=3&theater)
+
+
 
 ### [암치료계의 다이나믹 듀오: 키모와 이뮤노](https://www.facebook.com/immunology001/posts/531009407230989)
 
