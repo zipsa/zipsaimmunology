@@ -4,7 +4,7 @@
 
 
 
-### [백옥 주사 맞은 T양, 면역반응을 준비하다](https://www.facebook.com/immunology001/posts/537619733236623)
+### [T양의 화려한 외출: "백옥주사" 맞고 면역반응 준비하기](https://www.facebook.com/immunology001/posts/537619733236623)
 
 Review date: **Aug 1st, 2017**
 
