@@ -19,7 +19,7 @@ Review date: **July 27th, 2017**
 Hosios et al., Developmental Cell 2016, "Amino Acids Rather than Glucose Account for the Majority of Cell Mass in Proliferating Mammalian Cells"
 
 
-#### [Artwork: “암세포가 될테야! (B-Kun wants to be a lymphoma!)”](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/538117716520158/?type=3&theater)
+ *  #### [Artwork: “암세포가 될테야! (B-Kun wants to be a lymphoma!)”](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/538117716520158/?type=3&theater)
 
 
 
@@ -99,7 +99,7 @@ Review date: **June 25th, 2017**
 
 Levine et al., Nature 2017, "Stability and function of regulatory T cells expressing the transcription factor T-bet"
 
-#### [Artwork: Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
+ *  #### [Artwork: Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
 Claire Kim x JJDDYY (2017)
 
 
