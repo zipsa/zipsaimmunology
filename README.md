@@ -8,7 +8,7 @@
 
 Review date: **Aug 1st, 2017**
 
-Mak et al., Immunity 2017, "Glutathione Primes T Cell Metabolism for Inflammation"
+> Mak et al., Immunity 2017, "Glutathione Primes T Cell Metabolism for Inflammation"
 
 
 
@@ -16,7 +16,7 @@ Mak et al., Immunity 2017, "Glutathione Primes T Cell Metabolism for Inflammatio
 
 Review date: **July 27th, 2017**
 
-Hosios et al., Developmental Cell 2016, "Amino Acids Rather than Glucose Account for the Majority of Cell Mass in Proliferating Mammalian Cells"
+> Hosios et al., Developmental Cell 2016, "Amino Acids Rather than Glucose Account for the Majority of Cell Mass in Proliferating Mammalian Cells"
 
 
  *  #### [Artwork: “암세포가 될테야! (B-Kun wants to be a lymphoma!)”](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/538117716520158/?type=3&theater)
@@ -27,7 +27,7 @@ Hosios et al., Developmental Cell 2016, "Amino Acids Rather than Glucose Account
 
 Review date: **July 21th, 2017**
 
-Pfirschke et al., Immunity 2016, "Immunogenic Chemotherapy Sensitizes Tumors to Checkpoint Blockade Therapy"
+> Pfirschke et al., Immunity 2016, "Immunogenic Chemotherapy Sensitizes Tumors to Checkpoint Blockade Therapy"
 
 
 
@@ -35,21 +35,21 @@ Pfirschke et al., Immunity 2016, "Immunogenic Chemotherapy Sensitizes Tumors to 
 
 Review date: **July 16th, 2017**
 
-Plitas et al., Immunity 2016, "Regulatory T Cells Exhibit Distinct Features in Human Breast Cancer"
+> Plitas et al., Immunity 2016, "Regulatory T Cells Exhibit Distinct Features in Human Breast Cancer"
 
 
 ### [9급 공무원 T양, HIV에 감염되다](https://www.facebook.com/immunology001/posts/526420834356513)
 
 Review date: **July 13th, 2017**
 
-Descours et al., Nature 2017, "CD32a is a marker of a CD4 T-cell HIV reservoir harbouring replication-competent proviruses"
+> Descours et al., Nature 2017, "CD32a is a marker of a CD4 T-cell HIV reservoir harbouring replication-competent proviruses"
 
 
 ### [뒤끝 쩌는 남자: M군](https://www.facebook.com/immunology001/posts/525278254470771)
 
 Review date: **July 11th, 2017**
 
-Wang et al., Nature Immunology 2017, "Germinal-center development of memory B cells driven by IL-9 from follicular helper T cells"
+> Wang et al., Nature Immunology 2017, "Germinal-center development of memory B cells driven by IL-9 from follicular helper T cells"
 
 
 
@@ -57,7 +57,7 @@ Wang et al., Nature Immunology 2017, "Germinal-center development of memory B ce
 
 Review date: **July 7th, 2017**
 
-Reboldi et al., Science 2016, "IgA production requires B cell interaction with subepithelial dendritic cells in Peyer’s patches"
+> Reboldi et al., Science 2016, "IgA production requires B cell interaction with subepithelial dendritic cells in Peyer’s patches"
 
 
 
@@ -65,7 +65,7 @@ Reboldi et al., Science 2016, "IgA production requires B cell interaction with s
 
 Review date: **July 4th, 2017**
 
-Kamphorst et al., Science 2017, "Rescue of exhausted CD8 T cells by PD-1–targeted therapies is CD28-dependent"
+> Kamphorst et al., Science 2017, "Rescue of exhausted CD8 T cells by PD-1–targeted therapies is CD28-dependent"
 
 
 
@@ -73,7 +73,7 @@ Kamphorst et al., Science 2017, "Rescue of exhausted CD8 T cells by PD-1–targe
 
 Review date: **July 1st, 2017**
 
-Lavin et al., Cell 2017, "Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses"
+> Lavin et al., Cell 2017, "Innate Immune Landscape in Early Lung Adenocarcinoma by Paired Single-Cell Analyses"
 
 
 
@@ -81,7 +81,7 @@ Lavin et al., Cell 2017, "Innate Immune Landscape in Early Lung Adenocarcinoma b
 
 Review date: **June 29th, 2017**
 
-Starck et al., Science 2016, "Translation from the 5′ untranslated region shapes the integrated stress response"
+> Starck et al., Science 2016, "Translation from the 5′ untranslated region shapes the integrated stress response"
 
 
 
@@ -89,7 +89,7 @@ Starck et al., Science 2016, "Translation from the 5′ untranslated region shap
 
 Review date: **June 27th, 2017**
 
-Varano et al., Nature 2017, "The B-cell receptor controls fitness of MYC-driven lymphoma cells via GSK3β inhibition"
+> Varano et al., Nature 2017, "The B-cell receptor controls fitness of MYC-driven lymphoma cells via GSK3β inhibition"
 
 
 
@@ -97,7 +97,7 @@ Varano et al., Nature 2017, "The B-cell receptor controls fitness of MYC-driven 
 
 Review date: **June 25th, 2017**
 
-Levine et al., Nature 2017, "Stability and function of regulatory T cells expressing the transcription factor T-bet"
+> Levine et al., Nature 2017, "Stability and function of regulatory T cells expressing the transcription factor T-bet"
 
  *  #### [Artwork: Treg 부서의 T양 Th1 부서를 넘보다](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/527002027631727/?type=3&theater)
 Claire Kim x JJDDYY (2017)
@@ -108,4 +108,4 @@ Claire Kim x JJDDYY (2017)
 
 Review date: **June 23th, 2017**
 
-Ersching et al., Immunity 2017, "Germinal Center Selection and Affinity Maturation Require Dynamic Regulation of mTORC1 Kinase" 
+> Ersching et al., Immunity 2017, "Germinal Center Selection and Affinity Maturation Require Dynamic Regulation of mTORC1 Kinase" 
