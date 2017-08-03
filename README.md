@@ -3,6 +3,15 @@
 ## [집사의 면역학 페이지](https://www.facebook.com/immunology001/) 의 글을 아카이브 합니다 
 
 
+
+### [백옥 주사 맞은 T양, 면역반응을 준비하다](https://www.facebook.com/immunology001/posts/537619733236623)
+
+Review date: **Aug 1st, 2017**
+
+Mak et al., Immunity 2017, "Glutathione Primes T Cell Metabolism for Inflammation"
+
+
+
 ### [암세포의 식사메뉴: Glucose, Amino Acids and Lipids](https://www.facebook.com/immunology001/posts/534607233537873)
 
 Review date: **July 27th, 2017**
