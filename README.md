@@ -20,7 +20,7 @@ Review date: **July 27th, 2017**
 
 
  *  #### [Artwork: “암세포가 될테야! (B-Kun wants to be a lymphoma!)”](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/538117716520158/?type=3&theater)
-
+mmmikkalous (2017)
 
 
 ### [암치료계의 다이나믹 듀오: 키모와 이뮤노](https://www.facebook.com/immunology001/posts/531009407230989)
