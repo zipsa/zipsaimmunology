@@ -2,6 +2,16 @@
 
 ## [집사의 면역학 페이지](https://www.facebook.com/immunology001/) 의 글을 아카이브 합니다 
 
+ *  #### [Artwork: “집사의 면역학”](https://www.facebook.com/immunology001/photos/a.527002050965058.1073741828.514289745569622/540893722909224/?type=3&theater)
+Photo Credits: Dr.464
+
+
+### [무대뽀 정신이 필요하다: NK 세포](https://www.facebook.com/immunology001/posts/541498499515413)
+
+Review date: **Aug 10th, 2017**
+
+> Aguilar et al., Cell 2017, "A Viral Immunoevasin Controls Innate Immunity by Targeting the Prototypical Natural Killer Cell Receptor Family"
+
 
 
 ### [T양의 화려한 외출: "백옥주사" 맞고 면역반응 준비하기](https://www.facebook.com/immunology001/posts/537619733236623)
