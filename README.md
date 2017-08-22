@@ -6,6 +6,23 @@
 Photo Credits: Dr.464
 
 
+### [쇼미더타겟6: feat. CRISPR-Cas9](https://www.facebook.com/immunology001/posts/546734395658490)
+
+Review Date: **Aug 21th, 2017**
+> Patel et al., Nature 2017, "Identification of essential genes for cancer immunotherapy"
+> Manguso et al., Nature 2017, "In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target"
+
+
+### [번외편: 집사의 면역학 FAQ](https://www.facebook.com/immunology001/posts/544919532506643) 
+
+
+### [논산훈련소의 조교, T follicular helper (Tfh) 세포](https://www.facebook.com/immunology001/posts/544438399221423)
+
+Review date: **Aug 16th, 2017**
+
+> Lu et al., Science 2017, "Ephrin B1–mediated repulsion and signaling control germinal center T cell territoriality and function"
+
+
 ### [무대뽀 정신이 필요하다: NK 세포](https://www.facebook.com/immunology001/posts/541498499515413)
 
 Review date: **Aug 10th, 2017**
