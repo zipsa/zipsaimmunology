@@ -8,7 +8,7 @@ Photo Credits: Dr.464
 
 ### [쇼미더타겟6: feat. CRISPR-Cas9](https://www.facebook.com/immunology001/posts/546734395658490)
 
-Review Date: **Aug 21th, 2017**
+Review date: **Aug 21th, 2017**
 > Patel et al., Nature 2017, "Identification of essential genes for cancer immunotherapy"
 
 > Manguso et al., Nature 2017, "In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target"
