@@ -23,9 +23,6 @@ Review date: **Aug 21th, 2017**
 > Manguso et al., Nature 2017, "In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target"
 
 
-### [번외편: 집사의 면역학 FAQ](https://www.facebook.com/immunology001/posts/544919532506643) 
-
-
 ### [논산훈련소의 조교, T follicular helper (Tfh) 세포](https://www.facebook.com/immunology001/posts/544438399221423)
 
 Review date: **Aug 16th, 2017**
@@ -146,3 +143,10 @@ Claire Kim x JJDDYY (2017)
 Review date: **June 23th, 2017**
 
 > Ersching et al., Immunity 2017, "Germinal Center Selection and Affinity Maturation Require Dynamic Regulation of mTORC1 Kinase" 
+
+
+
+
+### [번외편: 집사의 면역학 FAQ](https://www.facebook.com/immunology001/posts/544919532506643) 
+
+### [번외편 2: 집사의 과거](https://www.facebook.com/immunology001/posts/548400455491884)
