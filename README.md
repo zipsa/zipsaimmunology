@@ -6,9 +6,18 @@
 Photo Credits: Dr.464
 
 
+
+### [인터페론 (Interferon, IFN)](https://www.facebook.com/immunology001/posts/547887112209885)
+
+Review date: **Aug 23th, 2017**
+
+>Alick Isaacs and Jean Lindenmann, Proc R Soc Lond B Biol Sci.1957, "Virus interference. I. The interferon."
+
+
 ### [쇼미더타겟6: feat. CRISPR-Cas9](https://www.facebook.com/immunology001/posts/546734395658490)
 
 Review date: **Aug 21th, 2017**
+
 > Patel et al., Nature 2017, "Identification of essential genes for cancer immunotherapy"
 
 > Manguso et al., Nature 2017, "In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target"
