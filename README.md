@@ -6,12 +6,22 @@
 Photo Credits: Dr.464
 
 
+### [인터페론 2 - 리로디드](https://www.facebook.com/immunology001/posts/550331748632088)
+
+Review date: **Aug 29th, 2017**
+
+> Kaplan et al., PNAS 1998, "Demonstration of an interferon γ-dependent tumor surveillance system in immunocompetent mice"
+
+> Kammertoens et al., Nature 2017, "Tumour ischaemia by interferon-γ resembles physiological blood vessel regression"
+
+
 
 ### [인터페론 (Interferon, IFN)](https://www.facebook.com/immunology001/posts/547887112209885)
 
 Review date: **Aug 23th, 2017**
 
->Alick Isaacs and Jean Lindenmann, Proc R Soc Lond B Biol Sci.1957, "Virus interference. I. The interferon."
+> Alick Isaacs and Jean Lindenmann, Proc R Soc Lond B Biol Sci.1957, "Virus interference. I. The interferon."
+
 
 
 ### [쇼미더타겟6: feat. CRISPR-Cas9](https://www.facebook.com/immunology001/posts/546734395658490)
@@ -23,11 +33,13 @@ Review date: **Aug 21th, 2017**
 > Manguso et al., Nature 2017, "In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target"
 
 
+
 ### [논산훈련소의 조교, T follicular helper (Tfh) 세포](https://www.facebook.com/immunology001/posts/544438399221423)
 
 Review date: **Aug 16th, 2017**
 
 > Lu et al., Science 2017, "Ephrin B1–mediated repulsion and signaling control germinal center T cell territoriality and function"
+
 
 
 ### [무대뽀 정신이 필요하다: NK 세포](https://www.facebook.com/immunology001/posts/541498499515413)
